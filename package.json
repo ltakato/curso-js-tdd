@@ -1,0 +1,16 @@
+{
+  "name": "js-tdd-curso",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de javascript com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "curso"
+  ],
+  "author": "ltakato <ltakato@hotmail.com>",
+  "license": "ISC"
+}
